@@ -21,8 +21,8 @@
 ---
 
 ## 📌 Proyectos Destacados
-- [📈 Análisis de Datos con Python](https://github.com/Jorge-sarcos2002/mi-proyecto1)
-- [🔍 Dashboard en Power BI](https://github.com/Jorge-sarcos2002/mi-proyecto2)
+- [📈 Modelo Logit de Ciencia de Datos para inasistencia a clases de niños](https://github.com/Jorge-sarcos2002/Logit-model-for-children-s-inassitance-)
+
 
 ---
 
