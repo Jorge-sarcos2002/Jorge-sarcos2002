@@ -1,37 +1,32 @@
 <!-- =============================== -->
 
-<!-- README — Jorge Sarcos (versión premium, elegante y optimizada) -->
+<!-- README — Jorge Sarcos (dark elegant) -->
 
 <!-- =============================== -->
 
-<!-- ======= HERO / BANNER (SVG elegante, sin hackatón) ======= -->
+<!-- ======= HERO / BANNER (SVG oscuro y elegante) ======= -->
 
 <p align="center">
-  <!-- SVG banner: degradé suave + título central -->
-  <svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Banner de Jorge Sarcos">
+  <svg width="100%" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Banner de Jorge Sarcos">
     <defs>
       <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0ea5e9"/>
-        <stop offset="50%" stop-color="#6366f1"/>
-        <stop offset="100%" stop-color="#14b8a6"/>
+        <stop offset="0%" stop-color="#0B1220"/>
+        <stop offset="50%" stop-color="#111827"/>
+        <stop offset="100%" stop-color="#0F172A"/>
       </linearGradient>
-      <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.20"/>
-        <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-      </linearGradient>
+      <radialGradient id="pulse" cx="50%" cy="50%" r="70%">
+        <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.25"/>
+        <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.12"/>
+        <stop offset="100%" stop-color="#10B981" stop-opacity="0.06"/>
+      </radialGradient>
     </defs>
-    <rect width="1200" height="220" fill="url(#g)" rx="24"/>
-    <g opacity="0.2">
-      <circle cx="150" cy="180" r="120" fill="#fff"/>
-      <circle cx="1050" cy="60" r="90" fill="#fff"/>
-    </g>
-    <rect x="0" y="0" width="1200" height="220" fill="url(#glow)"/>
-    <text x="50%" y="54%" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Inter, Roboto, Arial" font-size="40" font-weight="800">Jorge Sarcos</text>
-    <text x="50%" y="75%" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Inter, Roboto, Arial" font-size="18" font-weight="500">Economista · Científico de Datos · Especialista en Estadística Aplicada</text>
+    <rect width="1200" height="240" fill="url(#g)" rx="28"/>
+    <circle cx="250" cy="80" r="160" fill="url(#pulse)"/>
+    <circle cx="980" cy="170" r="140" fill="url(#pulse)"/>
+    <text x="50%" y="55%" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Segoe UI, Roboto, Arial" font-size="42" font-weight="800" letter-spacing="2">JORGE SARCOS</text>
+    <text x="50%" y="75%" text-anchor="middle" fill="#9CA3AF" font-family="Inter, Segoe UI, Roboto, Arial" font-size="18" font-weight="500">Economista · Científico de Datos · Especialista en Estadística Aplicada</text>
   </svg>
 </p>
-
-<!-- ======= HEADER ======= -->
 
 <h1 align="center">Bienvenido a mi espacio en GitHub</h1>
 <p align="center">
@@ -39,190 +34,160 @@
 </p>
 
 <div align="center">
-
-<!-- Enlaces esenciales (solo los necesarios) -->
-
-<a href="https://www.linkedin.com/in/jorge-sarcosgon/" aria-label="LinkedIn de Jorge Sarcos">
-  <img src="https://img.shields.io/badge/LinkedIn-Jorge_Sarcos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:jorgesarcos95@gmail.com" aria-label="Email de contacto">
-  <img src="https://img.shields.io/badge/Email-jorgesarcos95%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://scholar.google.com/citations?user=XXXXXXXX" aria-label="Google Scholar de Jorge Sarcos">
-  <img src="https://img.shields.io/badge/Google_Scholar-Perfil-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/jorge-sarcosgon/" aria-label="LinkedIn de Jorge Sarcos">
+    <img src="https://img.shields.io/badge/LinkedIn-Jorge_Sarcos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jorgesarcos95@gmail.com" aria-label="Email de contacto">
+    <img src="https://img.shields.io/badge/Email-jorgesarcos95%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=XXXXXXXX" aria-label="Google Scholar de Jorge Sarcos">
+    <img src="https://img.shields.io/badge/Google_Scholar-Perfil-1F2937?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
 </div>
 
 ---
 
-<!-- ======= PERFIL RESUMEN ======= -->
+### ✦ Sobre mí
 
-### 🧭 Sobre mí
+* Economista (MSc en Estadística Aplicada).
+* Experiencia **en el sector privado** (análisis financiero, BI, evaluación de proyectos, forecasting) y **en investigación aplicada** (economía del desarrollo, políticas públicas).
+* Publicaciones en **revistas indexadas** sobre **pobreza**, **desigualdad**, **crecimiento económico** y **género**.
+* Traducción de datos complejos en **decisiones simples y accionables**.
 
-* 🎓 Economista (MSc en Estadística Aplicada).
-* 💼 Experiencia **en el sector privado** (análisis financiero, BI, evaluación de proyectos, forecasting) y **en investigación aplicada** (economía del desarrollo, políticas públicas).
-* 📝 Publicaciones en **revistas indexadas** sobre **pobreza**, **desigualdad**, **crecimiento económico** y **género**.
-* 🧩 Me enfoco en traducir datos complejos en **decisiones simples y accionables**.
-
-> *"Rigor estadístico + claridad narrativa = impacto real."*
+> Rigor estadístico · claridad narrativa · impacto real.
 
 ---
 
-<!-- ======= HIGHLIGHTS (Tarjetas limpias) ======= -->
-
-### ✨ En qué destaco
+### ✦ En qué destaco
 
 <p align="center">
-  <i>Econometría</i> · <i>Series de tiempo</i> · <i>Machine Learning</i> · <i>Inferencia Causal</i> · <i>BI con Power BI</i>
+  Econometría · Series de tiempo · Machine Learning · Inferencia Causal · BI con Power BI
 </p>
 
 <table>
   <tr>
     <td>
-      <h4>📈 Econometría</h4>
+      <strong>📈 Econometría</strong><br/>
       OLS, IV/2SLS, panel (FE/RE), GMM dinámico (Arellano–Bond, Blundell–Bond), PVAR, cointegración.
     </td>
     <td>
-      <h4>⏱️ Series de tiempo</h4>
-      SARIMA/ARIMA, VAR/VECM, ARDL, BVAR, Local Projections, análisis de choques y respuesta impulso.
+      <strong>⏱️ Series de tiempo</strong><br/>
+      SARIMA/ARIMA, VAR/VECM, ARDL, BVAR, Local Projections, choques y respuesta impulso.
     </td>
   </tr>
   <tr>
     <td>
-      <h4>🧠 Machine Learning</h4>
-      Árboles, Random Forest, XGBoost, regularización (Lasso/Ridge/Elastic Net), redes básicas, tuning y validación.
+      <strong>🧠 Machine Learning</strong><br/>
+      Árboles, Random Forest, XGBoost, regularización (Lasso/Ridge/Elastic Net), redes básicas, tuning/validación.
     </td>
     <td>
-      <h4>🎯 Inferencia causal</h4>
-      DiD, RDD, IV, Synthetic Control, matching, experimentos A/B y diseños muestrales.
+      <strong>🎯 Inferencia causal</strong><br/>
+      DiD, RDD, IV, Synthetic Control, matching, A/B y diseños muestrales.
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ======= TECH STACK (Badges centrados) ======= -->
-
-### 🛠️ Tech Stack
+### ✦ Tech Stack
 
 <div align="center">
-
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img alt="Stata" src="https://img.shields.io/badge/Stata-1F7A8C?style=for-the-badge"/>
-<img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
+  <img alt="Python" src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=F7DF1E"/>
+  <img alt="R" src="https://img.shields.io/badge/R-0B1220?style=for-the-badge&logo=r&logoColor=75AADB"/>
+  <img alt="Stata" src="https://img.shields.io/badge/Stata-0B1220?style=for-the-badge&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-0B1220?style=for-the-badge&logo=microsoftexcel&logoColor=21C55D"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 <details>
   <summary><b>Detalle de herramientas</b></summary>
 
-* **Python:** numpy, pandas, scikit-learn, statsmodels, pmdarima, prophet, matplotlib/plotly.
-* **R:** tidyverse, data.table, forecast, fable, vars, plm, fixest.
-* **Stata:** econometría aplicada, panel dinámico, gráficos.
-* **SQL:** consultas analíticas, CTEs, ventanas, modelado de datos.
-* **Power BI:** modelado DAX, relaciones, storytelling con indicadores.
-* **Excel:** tablas dinámicas, Power Query, modelos financieros.
+* <strong>Python</strong>: numpy, pandas, scikit-learn, statsmodels, pmdarima, prophet, matplotlib/plotly.
+* <strong>R</strong>: tidyverse, data.table, forecast, fable, vars, plm, fixest.
+* <strong>Stata</strong>: econometría aplicada, panel dinámico, gráficos.
+* <strong>SQL</strong>: CTEs, ventanas, modelado de datos, consultas analíticas.
+* <strong>Power BI</strong>: DAX, modelado, storytelling con indicadores.
+* <strong>Excel</strong>: Power Query, tablas dinámicas, modelos financieros.
 
 </details>
 
 ---
 
-<!-- ======= EXPERIENCIA / SECTOR PRIVADO ======= -->
+### ✦ Experiencia (sector privado y aplicado)
 
-### 💼 Experiencia (sector privado y aplicado)
-
-* **Consultoría**: análisis financiero y evaluación de proyectos con modelos econométricos y de forecasting.
-* **BI & Reporting**: tableros ejecutivos en **Power BI** y reportes técnicos con narrativas claras.
-* **Proyectos de datos**: pipelines limpios, control de calidad y versionamiento.
+* Consultoría: análisis financiero y evaluación de proyectos con modelos econométricos y de forecasting.
+* BI & Reporting: tableros ejecutivos en <strong>Power BI</strong> y reportes técnicos con narrativa clara.
+* Proyectos de datos: pipelines limpios, control de calidad y versionamiento.
 
 ---
 
-<!-- ======= LÍNEAS DE INVESTIGACIÓN ======= -->
+### ✦ Investigación
 
-### 🔬 Investigación
+* Economía del desarrollo y <strong>pobreza</strong>.
+* <strong>Desigualdad</strong> y movilidad social.
+* <strong>Crecimiento económico</strong> y productividad.
+* <strong>Género</strong> y mercado laboral.
 
-* Economía del desarrollo y **pobreza**.
-* **Desigualdad** y movilidad social.
-* **Crecimiento económico** y productividad.
-* **Género** y mercado laboral.
-
-> He publicado artículos en **revistas indexadas** con estos enfoques. Consulta mi **[Google Scholar](https://scholar.google.com/citations?user=XXXXXXXX)**.
+> Publicaciones en <strong>revistas indexadas</strong>. Ver <a href="https://scholar.google.com/citations?user=XXXXXXXX">Google Scholar</a>.
 
 ---
 
-<!-- ======= PROYECTOS DESTACADOS (Cards limpias) ======= -->
-
-### 🚀 Proyectos destacados
+### ✦ Proyectos destacados
 
 <div align="center">
-
-<a href="https://github.com/Jorge-sarcos2002/Logit-model-for-children-s-inassitance-">
-  <img alt="Proyecto Logit" src="https://img.shields.io/badge/📈_Logit_inasistencia_escolar-111827?style=for-the-badge"/>
-</a>
-
-<!-- Agrega más proyectos cuando estén públicos -->
-
-<a href="#">
-  <img alt="Forecasting" src="https://img.shields.io/badge/⏱️_Forecasting_SARIMA_vs_XGBoost-111827?style=for-the-badge"/>
-</a>
-<a href="#">
-  <img alt="Causalidad" src="https://img.shields.io/badge/🎯_Evaluación_de_impacto_(DiD/RDD/SCM)-111827?style=for-the-badge"/>
-</a>
-
+  <a href="https://github.com/Jorge-sarcos2002/Logit-model-for-children-s-inassitance-">
+    <img alt="Proyecto Logit" src="https://img.shields.io/badge/Logit_inasistencia_escolar-111827?style=for-the-badge&labelColor=0B1220"/>
+  </a>
+  <a href="#">
+    <img alt="Forecasting" src="https://img.shields.io/badge/Forecasting_SARIMA_vs_XGBoost-111827?style=for-the-badge&labelColor=0B1220"/>
+  </a>
+  <a href="#">
+    <img alt="Causalidad" src="https://img.shields.io/badge/Evaluación_de_impacto_(DiD/RDD/SCM)-111827?style=for-the-badge&labelColor=0B1220"/>
+  </a>
 </div>
 
 ---
 
-<!-- ======= MÉTRICAS GITHUB ======= -->
-
-### 📊 Actividad
+### ✦ Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-sarcos2002&show_icons=true&theme=radical" alt="Stats de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-sarcos2002&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorge-sarcos2002&show_icons=true&theme=github_dark" alt="Stats de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-sarcos2002&layout=compact&theme=github_dark" alt="Lenguajes más usados"/>
 </p>
 
 ---
 
-<!-- ======= MÉTODO DE TRABAJO (Mermaid) ======= -->
-
-### 🧩 Método de trabajo
+### ✦ Método de trabajo
 
 ```mermaid
 flowchart LR
-  A[Pregunta/Objetivo] --> B[Datos: extracción y limpieza]
-  B --> C[EDA y diseño de features]
-  C --> D[Modelos base y avanzados]
+  A[Definición del objetivo] --> B[Datos: extracción y limpieza]
+  B --> C[EDA y diseño de variables]
+  C --> D[Modelos: baseline y avanzados]
   D --> E[Evaluación: métricas y supuestos]
-  E --> F[Validación cruzada y sensibilidad]
+  E --> F[Validación & sensibilidad]
   F --> G[Informe técnico + Tablero BI]
   G --> H[Entrega y mejora continua]
 ```
 
 ---
 
-<!-- ======= CASOS DE USO (bullets claros) ======= -->
+### ✦ Casos de uso frecuentes
 
-### 🧶 Casos de uso frecuentes
-
-* **Negocios**: pronóstico de ventas, segmentación de clientes, pricing y riesgo.
-* **Sector público/ONG**: impacto de políticas, brechas de género, empleo y educación.
-* **Finanzas**: modelos de crédito, stress testing ligero, dashboards gerenciales.
+* Negocios: pronóstico de ventas, segmentación de clientes, pricing y riesgo.
+* Sector público/ONG: impacto de políticas, brechas de género, empleo y educación.
+* Finanzas: modelos de crédito, stress testing ligero, dashboards gerenciales.
 
 ---
 
-<!-- ======= CONTACTO / CTA ======= -->
+### ✦ ¿Hablamos?
 
-### 🤝 ¿Hablamos?
+Abierto a <strong>consultorías</strong>, <strong>coautorías</strong> y <strong>proyectos</strong>.
 
-Estoy abierto a **consultorías**, **coautorías** y **proyectos**.
-**Escríbeme:** [LinkedIn](https://www.linkedin.com/in/jorge-sarcosgon/) · [Email](mailto:jorgesarcos95@gmail.com)
+**Contacto:** <a href="https://www.linkedin.com/in/jorge-sarcosgon/">LinkedIn</a> · <a href="mailto:jorgesarcos95@gmail.com">[jorgesarcos95@gmail.com](mailto:jorgesarcos95@gmail.com)</a>
 
 ---
 
-<p align="center">✨ Economía · Ciencia de Datos · Estadística · Investigación ✨</p>
+<p align="center">▁ ▂ ▃ ▄ ▅ ▆ █  <em>Economía · Ciencia de Datos · Estadística · Investigación</em>  █ ▆ ▅ ▄ ▃ ▂ ▁</p>
