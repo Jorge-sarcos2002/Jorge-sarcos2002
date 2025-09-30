@@ -26,7 +26,7 @@
       <circle cx="1050" cy="60" r="90" fill="#fff"/>
     </g>
     <rect x="0" y="0" width="1200" height="220" fill="url(#glow)"/>
-    <text x="50%" y="54%" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Inter, Roboto, Arial" font-size="40" font-weight="800">JORGE SARCOS</text>
+    <text x="50%" y="54%" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Inter, Roboto, Arial" font-size="40" font-weight="800">Jorge Sarcos</text>
     <text x="50%" y="75%" text-anchor="middle" fill="#e5e7eb" font-family="Segoe UI, Inter, Roboto, Arial" font-size="18" font-weight="500">Economista · Científico de Datos · Especialista en Estadística Aplicada</text>
   </svg>
 </p>
