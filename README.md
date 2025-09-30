@@ -8,8 +8,9 @@
 <p align="center">
   <b>Economista</b> · <b>Científico de Datos</b> · <b>Especialista en Estadística Aplicada</b>
 </p>
+
 <p align="center">
-  Investigo y construyo soluciones cuantitativas para problemas reales en <b>economía del desarrollo</b>, <b>pobreza</b>, <b>desigualdad</b>, <b>crecimiento económico</b> y <b>género</b>.
+  He trabajado en el <b>sector privado</b> y en proyectos de investigación aplicada, combinando <b>econometría</b>, <b>estadística</b> y <b>ciencia de datos</b> para resolver problemas reales en economía, negocios y desarrollo.
 </p>
 
 <div align="center">
@@ -17,18 +18,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Sarcos-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tuusuario)
 [![Email](https://img.shields.io/badge/Email-contacto%40ejemplo.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tuemail@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Perfil-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=XXXXXXXX)
-[![Website](https://img.shields.io/badge/Website-Portafolio-111827?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://jorge-sarcos2002.github.io)
 
 </div>
 
 ---
 
-## 🧠 ¿Qué hago?
+## ✨ Sobre mí
 
-* Desarrollo **modelos estadísticos y econométricos** para responder preguntas de política pública y de negocios.
-* Construyo **pipelines de datos** y tableros con **Power BI** para generar inteligencia accionable.
-* Diseño y evalúo **modelos de ML** (clasificación, regresión, forecasting) y **series de tiempo**.
-* Escribo y publico **artículos académicos** y **informes técnicos**.
+🎓 Economista con maestría en estadística aplicada.
+💼 Experiencia en el sector privado y académico, aplicando modelos cuantitativos para generar valor.
+📊 Publicaciones en **revistas indexadas** sobre economía del desarrollo, pobreza, desigualdad, crecimiento económico y género.
+🚀 Enfoque en soluciones prácticas y elegantes que combinan análisis profundo con comunicación clara.
 
 ---
 
@@ -38,13 +38,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1F7A8C?style=for-the-badge\&logo=data\:image/svg+xml;base64,PHN2Zy8+)
+![Stata](https://img.shields.io/badge/Stata-1F7A8C?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 ![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge\&logo=latex\&logoColor=white)
 
 </div>
 
@@ -52,39 +49,30 @@
 
 ## 📚 Áreas de dominio
 
-**Estadística aplicada** · **Econometría** (OLS, IV/2SLS, Panel, Arellano–Bond/Blundell–Bond) · **Series de tiempo** (SARIMA, VAR/VECM, ARDL, PVAR, BVAR, Local Projections) · **Machine Learning** (árboles, boosting, regularización, redes) · **Inferencia causal** (DiD, RDD, IV, Synthetic Control) · **Experimentación** (A/B testing, diseños muestrales) · **Visualización y BI**.
+**Estadística aplicada** · **Econometría** · **Series de tiempo** · **Machine Learning** · **Inferencia causal** · **Visualización y Business Intelligence**
 
 ---
 
-## 🔬 Líneas de investigación
+## 🔬 Investigación y experiencia
 
-* Economía del desarrollo y **pobreza**
-* **Desigualdad** y movilidad social
-* **Crecimiento económico** y productividad
-* Economía de **género** y mercado laboral
+* Economía del desarrollo, pobreza y desigualdad
+* Crecimiento económico y productividad
+* Género y mercado laboral
+* Consultoría aplicada para el sector privado (finanzas, proyecciones y BI)
 
 ---
 
-## 📝 Publicaciones seleccionadas
+## 📝 Publicaciones
 
-> He publicado artículos en **revistas indexadas** sobre los temas anteriores. Algunos trabajos recientes:
-
-* **Título del artículo 1** — *Revista*, año. [PDF](#) · [DOI](#)
-* **Título del artículo 2** — *Revista*, año. [PDF](#) · [DOI](#)
-* **Capítulo/libro / Ponencia** — *Editorial/Conferencia*, año. [Enlace](#)
-
-> Ver más en mi [Google Scholar](https://scholar.google.com/citations?user=XXXXXXXX).
+He publicado artículos en **revistas indexadas** sobre economía aplicada y desarrollo.
+👉 Consulta mis trabajos en mi [Google Scholar](https://scholar.google.com/citations?user=XXXXXXXX)
 
 ---
 
 ## 🚀 Proyectos destacados
 
-* 📈 **Modelo Logit de inasistencia escolar** — Clasificación, métricas, efectos marginales, reporte reproducible en R/Python.
-  👉 Repo: [Logit-model-for-children-s-inassitance-](https://github.com/Jorge-sarcos2002/Logit-model-for-children-s-inassitance-)
-* ⏱️ **Forecasting de series de tiempo** — Comparación SARIMA vs. XGBoost vs. BVAR para ventas y recaudaciones.
-  👉 Repo: *(pronto)*
-* 🧪 **Inferencia causal (DiD/RDD/SCM)** — Evaluación de impacto de políticas públicas con datos de Ecuador.
-  👉 Repo: *(pronto)*
+* 📈 **Modelo Logit de inasistencia escolar** — Clasificación, métricas y efectos marginales.
+  👉 [Repositorio](https://github.com/Jorge-sarcos2002/Logit-model-for-children-s-inassitance-)
 
 ---
 
@@ -99,21 +87,5 @@
 
 ---
 
-## 🧩 Cómo trabajo
+<p align="center">✨ Economía · Ciencia de Datos · Estadística · Investigación ✨</p>
 
-1. **Pregunta clara** → defino objetivos medibles.
-2. **Datos** → limpieza, documentación y versionado.
-3. **Modelo** → baseline + variantes (benchmarking riguroso).
-4. **Validación** → métricas, backtesting, sensibilidad y supuestos.
-5. **Entrega** → reporte técnico + resumen ejecutivo + tablero en Power BI.
-
----
-
-## 🤝 ¿Colaboramos?
-
-Estoy abierto a **consultorías**, **coautorías** y **proyectos** en economía aplicada, ciencia de datos y BI.
-**Escríbeme:** [contacto@ejemplo.com](mailto:contacto@ejemplo.com) · [LinkedIn](https://www.linkedin.com/in/tuusuario)
-
----
-
-<p align="center">✨ Siempre aprendiendo y creando ✨</p>
