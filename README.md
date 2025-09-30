@@ -42,11 +42,11 @@
 
 <!-- Enlaces esenciales (solo los necesarios) -->
 
-<a href="https://www.linkedin.com/in/tuusuario" aria-label="LinkedIn de Jorge Sarcos">
+<a href="https://www.linkedin.com/in/jorge-sarcosgon/" aria-label="LinkedIn de Jorge Sarcos">
   <img src="https://img.shields.io/badge/LinkedIn-Jorge_Sarcos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:tuemail@gmail.com" aria-label="Email de contacto">
-  <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:jorgesarcos95@gmail.com" aria-label="Email de contacto">
+  <img src="https://img.shields.io/badge/Email-jorgesarcos95%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://scholar.google.com/citations?user=XXXXXXXX" aria-label="Google Scholar de Jorge Sarcos">
   <img src="https://img.shields.io/badge/Google_Scholar-Perfil-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
@@ -221,21 +221,8 @@ flowchart LR
 ### 🤝 ¿Hablamos?
 
 Estoy abierto a **consultorías**, **coautorías** y **proyectos**.
-**Escríbeme:** [LinkedIn](https://www.linkedin.com/in/tuusuario) · [Email](mailto:tuemail@gmail.com)
+**Escríbeme:** [LinkedIn](https://www.linkedin.com/in/jorge-sarcosgon/) · [Email](mailto:jorgesarcos95@gmail.com)
 
 ---
-
-<!-- ======= NOTAS DE OPTIMIZACIÓN ======= -->
-
-<!--
-Optimización aplicada:
-- Enlaces mínimos y esenciales (LinkedIn, Email, Scholar) para reducir ruido.
-- SVG banner propio (sin imágenes de terceros), responsive y accesible (aria-label).
-- Secciones escaneables, subtítulos consistentes y badges centrados.
-- <details> para info avanzada del stack (mejora legibilidad).
-- Mermaid para explicar proceso (GitHub lo renderiza nativamente).
-- Texto conciso orientado a valor (sector privado + investigación aplicada).
-- Emplea emojis sutiles como marcadores visuales (evita sobrecarga cromática).
--->
 
 <p align="center">✨ Economía · Ciencia de Datos · Estadística · Investigación ✨</p>
