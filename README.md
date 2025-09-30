@@ -23,8 +23,8 @@
     <rect width="1200" height="240" fill="url(#g)" rx="28"/>
     <circle cx="250" cy="80" r="160" fill="url(#pulse)"/>
     <circle cx="980" cy="170" r="140" fill="url(#pulse)"/>
-    <text x="50%" y="55%" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Segoe UI, Roboto, Arial" font-size="42" font-weight="800" letter-spacing="2">JORGE SARCOS</text>
-    <text x="50%" y="75%" text-anchor="middle" fill="#9CA3AF" font-family="Inter, Segoe UI, Roboto, Arial" font-size="18" font-weight="500">Economista · Científico de Datos · Especialista en Estadística Aplicada</text>
+    <text x="50%" y="55%" text-anchor="middle" fill="#E5E7EB" font-family="Inter, Segoe UI, Roboto, Arial" font-size="42" font-weight="800" letter-spacing="2">Jorge Sarcos</text>
+    <text x="50%" y="75%" text-anchor="middle" fill="#9CA3AF" font-family="Inter, Segoe UI, Roboto, Arial" font-size="18" font-weight="500">· Economista · Científico de Datos · Especialista en Estadística Aplicada</text>
   </svg>
 </p>
 
